@@ -1,3 +1,0 @@
-world = TurtleWorld()
-bob = Turtle()
-print bob
